@@ -6,7 +6,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/600529917977034753)](https://discord.com/users/600529917977034753)
 [<img width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=luluw8071&theme=dark&hide_border=true"/>](#)
-[<img width="405px" src="https://github-readme-stats.vercel.app/api?username=luluw8071&theme=tokyonight&show_icons=true&hide_border=true"/>](#)
+[<img width="405px" src="https://github-stats-extended.vercel.app//api?username=luluw8071&theme=tokyonight&show_icons=true&hide_border=true"/>](#)
 
 <!-- Snake Contrib Graph -->
 <div align="center">
