@@ -1,14 +1,18 @@
 <!--LuluW Profile-->
 
 <!--Metrics-->
-[<img align="left" width="400" alt="General Metrics" src="assets/general.svg">](#) </br>
-[<img width="400" alt="Achievements" src="assets/achievements.svg">](#)
+<img align="left" width="400px" src="assets/general.svg"/>
+<img align="left" width="400px" src="assets/achievements.svg"/>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/600529917977034753)](https://discord.com/users/600529917977034753)
-<div align="center">
-  <img width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=luluw8071&theme=dark&hide_border=true"/>
-  <img width="405px" src="https://github-stats-extended.vercel.app//api?username=luluw8071&theme=tokyonight&show_icons=true&hide_border=true"/>
-</div>
+<a href="https://discord.com/users/600529917977034753">
+  <img src="https://lanyard.cnrad.dev/api/600529917977034753" alt="Discord Presence"/>
+</a>
+<br/>
+<img width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=luluw8071&theme=dark&hide_border=true"/>
+<br/>
+<img width="405px" src="https://github-stats-extended.vercel.app//api?username=luluw8071&theme=tokyonight&show_icons=true&hide_border=true"/>
+
+<br clear="left"/>
 
 <!-- Snake Contrib Graph -->
 <div align="center">
